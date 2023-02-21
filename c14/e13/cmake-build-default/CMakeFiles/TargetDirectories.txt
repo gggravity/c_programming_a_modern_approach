@@ -1,0 +1,3 @@
+C:/Users/martin.LAPLAND/CLionProjects/c_programming_a_modern_approach/c14/e13/cmake-build-default/CMakeFiles/edit_cache.dir
+C:/Users/martin.LAPLAND/CLionProjects/c_programming_a_modern_approach/c14/e13/cmake-build-default/CMakeFiles/e13.dir
+C:/Users/martin.LAPLAND/CLionProjects/c_programming_a_modern_approach/c14/e13/cmake-build-default/CMakeFiles/rebuild_cache.dir
